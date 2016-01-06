@@ -1,0 +1,17 @@
+batteries:
+
+http://www.amazon.fr/EC-Technology-22400mAh-Smartphones-Tablettes/dp/B00P64LAYA/ref=sr_1_4?ie=UTF8&qid=1452009176&sr=8-4&keywords=batterie+externe+t%C3%A9l%C3%A9phone
+
+http://fr.rs-online.com/web/p/batteries-externes/7757517/
+
+divers:
+
+http://www.robotshop.com/eu/fr/capteur-distance-ultrasonique-seeedstudio.html
+
+http://www.robotshop.com/eu/fr/module-camera-raspberry-pi.html
+
+convertisseurs:
+
+http://www.linear.com/product/LT1301
+
+http://fr.farnell.com/xp-power/il0512s/convertisseur-dc-dc-2w-5v-12v/dp/8728119
