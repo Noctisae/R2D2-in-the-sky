@@ -15,3 +15,6 @@ convertisseurs:
 http://www.linear.com/product/LT1301
 
 http://fr.farnell.com/xp-power/il0512s/convertisseur-dc-dc-2w-5v-12v/dp/8728119
+
+antenne wifi : uwn200
+http://www.logicsupply.com/fr-fr/uwn200/
