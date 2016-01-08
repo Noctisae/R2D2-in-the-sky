@@ -1,1 +1,5 @@
 http://beagleboard.org/getting-started
+
+http://www.seeedstudio.com/wiki/images/5/53/BBG_SRM_V3_20150804.pdf
+
+Docu pour écrire sur le port série : http://emmanuel.pouly.free.fr/beagle2.html#p6

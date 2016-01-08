@@ -1,0 +1,1 @@
+http://beaglebone.cameon.net/home/serial-ports-uart
